@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolioWebReact/static/css/main.9a7b4747.css",
-    "main.js": "/portfolioWebReact/static/js/main.61ee94b8.js",
+    "main.js": "/portfolioWebReact/static/js/main.2dfb7b57.js",
     "static/media/ML_Pro.jpg": "/portfolioWebReact/static/media/ML_Pro.e8bed331ddf2385946fc.jpg",
     "static/media/logoCompletePhoto.jpg": "/portfolioWebReact/static/media/logoCompletePhoto.89268ce58a8e71e3beff.jpg",
     "static/media/Anti_theftsystem.png": "/portfolioWebReact/static/media/Anti_theftsystem.32e02d50139c1c49f106.png",
@@ -23,10 +23,10 @@
     "static/media/projectTwo.jpg": "/portfolioWebReact/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
     "index.html": "/portfolioWebReact/index.html",
     "main.9a7b4747.css.map": "/portfolioWebReact/static/css/main.9a7b4747.css.map",
-    "main.61ee94b8.js.map": "/portfolioWebReact/static/js/main.61ee94b8.js.map"
+    "main.2dfb7b57.js.map": "/portfolioWebReact/static/js/main.2dfb7b57.js.map"
   },
   "entrypoints": [
     "static/css/main.9a7b4747.css",
-    "static/js/main.61ee94b8.js"
+    "static/js/main.2dfb7b57.js"
   ]
 }
