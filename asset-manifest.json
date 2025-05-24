@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolioWebReact/static/css/main.9a7b4747.css",
+    "main.js": "/portfolioWebReact/static/js/main.61ee94b8.js",
+    "static/media/ML_Pro.jpg": "/portfolioWebReact/static/media/ML_Pro.e8bed331ddf2385946fc.jpg",
+    "static/media/logoCompletePhoto.jpg": "/portfolioWebReact/static/media/logoCompletePhoto.89268ce58a8e71e3beff.jpg",
+    "static/media/Anti_theftsystem.png": "/portfolioWebReact/static/media/Anti_theftsystem.32e02d50139c1c49f106.png",
+    "static/media/portfolio_pro.jpg": "/portfolioWebReact/static/media/portfolio_pro.64185d385a86df23f1f8.jpg",
+    "static/media/HospitalManagement.png": "/portfolioWebReact/static/media/HospitalManagement.964db79d325718c06dd6.png",
+    "static/media/bannerIMGE.png": "/portfolioWebReact/static/media/bannerIMGE.85f4158fb4b9a5700230.png",
+    "static/media/QRbasedASSEtMNGT.png": "/portfolioWebReact/static/media/QRbasedASSEtMNGT.309465471da8da37c528.png",
+    "static/media/stream_applicstion.png": "/portfolioWebReact/static/media/stream_applicstion.972956737008bf4a7f68.png",
+    "static/media/feedback.jpg": "/portfolioWebReact/static/media/feedback.7c45f234b84daceb4a11.jpg",
+    "static/media/contactManager.png": "/portfolioWebReact/static/media/contactManager.3cc831def9523bbfdc24.png",
+    "static/media/corr_pred.png": "/portfolioWebReact/static/media/corr_pred.746bd7ef6dd2cdbb0a3c.png",
+    "static/media/contactImg.png": "/portfolioWebReact/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/ML_Harvesting.JPG": "/portfolioWebReact/static/media/ML_Harvesting.eee89fe121d373c75ba1.JPG",
+    "static/media/testimonialOne.png": "/portfolioWebReact/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/logo.png": "/portfolioWebReact/static/media/logo.b86eb5affe3e38f5a82e.png",
+    "static/media/bannerImg3.jpg": "/portfolioWebReact/static/media/bannerImg3.43a94f212d3d5659770c.jpg",
+    "static/media/projectThree.jpeg": "/portfolioWebReact/static/media/projectThree.47442baa3158613330ab.jpeg",
+    "static/media/testimonialTwo.png": "/portfolioWebReact/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectTwo.jpg": "/portfolioWebReact/static/media/projectTwo.1fabe2c8c93632187ee6.jpg",
+    "index.html": "/portfolioWebReact/index.html",
+    "main.9a7b4747.css.map": "/portfolioWebReact/static/css/main.9a7b4747.css.map",
+    "main.61ee94b8.js.map": "/portfolioWebReact/static/js/main.61ee94b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7b4747.css",
+    "static/js/main.61ee94b8.js"
+  ]
+}
